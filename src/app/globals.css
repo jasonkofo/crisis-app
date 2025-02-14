@@ -70,3 +70,8 @@ body {
     @apply bg-background text-foreground;
   }
 }
+
+.crisis-map {
+	width: 1500px;
+	height: 900px;
+}
