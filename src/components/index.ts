@@ -1,4 +1,3 @@
-import LeafletMap from "./Map/map";
- export {
-	LeafletMap
- }
+import { Map } from "./Map";
+
+export { Map };
